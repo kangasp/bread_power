@@ -11,3 +11,6 @@ Goal is to power a bread board.
 ## Parts to use
 * C915088 Boost IC, TPS61022RWUR
 * C15220, BQ24073RGTR
+USB-C:  C3151650,     USB4125-GF-A
+Inductor (boost):  XAL7030-102MEC, C19191626, SMD,7.5x7.5mm
+
